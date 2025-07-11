@@ -829,14 +829,14 @@ section,
 }
 
 .hero .floating-card.card-2 {
-  top: 60%;
+  top: 40%;
   right: -15%;
   animation-delay: 2s;
 }
 
 @media (max-width: 768px) {
   .hero .floating-card.card-2 {
-    top: 70%;
+    top: 50%;
     right: -10%;
   }
 }
